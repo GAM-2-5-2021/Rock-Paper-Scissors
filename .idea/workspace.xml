@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a41e4eb-53f6-477c-90e3-6b119dd8eb93" name="Default Changelist" comment="Update of the Game Logic.">
+    <list default="true" id="1a41e4eb-53f6-477c-90e3-6b119dd8eb93" name="Default Changelist" comment="/">
+      <change afterPath="$PROJECT_DIR$/Configurator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Background2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/ChooseHand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Paper/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Rock/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Computer/Scissors/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Instructions.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Paper/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Rock/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Images/Player/Scissors/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/Music/BackgroundTrack.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Starter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,17 +79,42 @@
     <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1sdIAL4wvKZGmtnzhNIZTptDgx7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.24464832" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Starter">
+    <configuration name="Starter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Rock-Paper-Scissors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rock-Paper-Scissors" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Starter" />
         <item itemvalue="Python.rps" />
       </list>
     </recent_temporary>
@@ -98,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621205455035</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="/">
+      <created>1623156751690</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623156751690</updated>
+    </task>
+    <task id="LOCAL-00006" summary="/">
+      <created>1623156803507</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623156803507</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,10 +207,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Implementation of the Game Logic." />
     <MESSAGE value="Update of the Game Logic." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update of the Game Logic." />
+    <MESSAGE value="/" />
+    <option name="LAST_COMMIT_MESSAGE" value="/" />
   </component>
 </project>
