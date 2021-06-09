@@ -12,3 +12,6 @@ Projekt sadrži i program rps.py, čijim se pokretanjem pokreće igra, ali bez g
 
 ### Pokretanje igre
 Igra se pokreće u klasi Starter pritiskom na tipku F5 ili nekim drugim načinom za pokretanje .py programa.
+
+### Screencast
+https://carnet-my.sharepoint.com/:v:/g/personal/roberta_ruzic_skole_hr/EYimAMqJhMJKoLNlJ-LxwgwBB18su5d_7trou5rfsUTEng?e=LdUpIr
